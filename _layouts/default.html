@@ -1,0 +1,59 @@
+<!DOCTYPE html>
+<html lang="en-US">
+  <head>
+    <title>Inès Benito</title>
+    <meta charset="UTF-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1">
+    <meta name="description" content="Academic website of Inès Benito, PhD candidate in Artificial Intelligence at École Polytechnique.">
+
+    <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/academicons/1.8.6/css/academicons.min.css" integrity="sha256-uFVgMKfistnJAfoCUQigIl+JfUaP47GrRKjf6CTPVmw=" crossorigin="anonymous">
+    <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/6.5.2/css/all.min.css">
+
+    <link rel="stylesheet" href="{{ '/assets/css/style.css' | relative_url }}">
+    <link rel="stylesheet" href="{{ '/assets/css/publications.css' | relative_url }}">
+  </head>
+  <body>
+    <div class="wrapper">
+      <header>
+
+        <a class="image avatar">
+          <img src="{{ '/assets/img/profile.jpg' | relative_url }}" alt="Inès Benito" />
+        </a>
+
+        <h1>Inès Benito</h1>
+
+        <position style="font-size:1.10rem;">PhD Candidate in Artificial Intelligence</position>
+        <br>
+        <a href="https://www.polytechnique.edu/" target="_blank" rel="noopener">
+          <autocolor>École Polytechnique</autocolor>
+        </a>
+        <br>
+        <email>ines (dot) benito (at) polytechnique (dot) edu</email>
+
+        <br><br>
+        <div class="social-icons">
+          <a style="margin: 0 5px 0 0" href="{{ '/assets/files/cv.pdf' | relative_url }}" target="_blank">
+            <i class="ai ai-cv" style="font-size:1.3rem;"></i>
+          </a>
+          <a style="margin: 0 5px 0 0" href="https://github.com/Hypatia-II" target="_blank">
+            <i class="fab fa-github"></i>
+          </a>
+          <a style="margin: 0 5px 0 0" href="https://scholar.google.com/citations?user=6HOhTFYAAAAJ&hl=en" target="_blank">
+            <i class="ai ai-google-scholar"></i>
+          </a>
+          <a style="margin: 0 5px 0 0" href="https://www.linkedin.com/in/ines-benito/" target="_blank">
+            <i class="fab fa-linkedin"></i>
+          </a>
+        </div>
+        <br>
+
+      </header>
+      <section>
+        {{ content }}
+      </section>
+      <footer></footer>
+    </div>
+    <script src="{{ '/assets/js/scale.fix.js' | relative_url }}"></script>
+  </body>
+</html>

@@ -1,0 +1,69 @@
+:root {
+  --global-theme-color: #8B3A52;
+  --global-hover-color: #B5607A;
+  --global-bg-color: #ffffff;
+  --global-text-color: #000000;
+  --global-text-color-light: #828282;
+  --global-footer-bg-color: #1c1c1c;
+  --global-footer-text-color: #e8e8e8;
+  --global-footer-link-color: #ffffff;
+}
+
+@media (prefers-color-scheme: dark) {
+  :root { --global-theme-color: #E8A0B4; }
+}
+
+.badge {
+  display: inline-block;
+  padding: 0.25em 0.4em;
+  font-size: 75%;
+  font-weight: 700;
+  line-height: 1;
+  text-align: center;
+  white-space: nowrap;
+  vertical-align: baseline;
+  border-radius: 0.25rem;
+  color: #fff !important;
+  -webkit-box-shadow: 0 2px 5px 0 rgb(0 0 0 / 16%), 0 2px 10px 0 rgb(0 0 0 / 12%);
+  box-shadow: 0 2px 5px 0 rgb(0 0 0 / 16%), 0 2px 10px 0 rgb(0 0 0 / 12%);
+}
+
+blockquote {
+  background: var(--global-bg-color);
+  border-left: 2px solid var(--global-theme-color);
+  margin: 1.5em 10px;
+  padding: 0.5em 10px;
+  font-size: 1.2rem;
+}
+
+.publications { margin-top: 2rem; }
+.publications h1 { color: var(--global-theme-color); font-size: 2rem; text-align: center; margin-top: 1em; margin-bottom: 1em; }
+.publications h2 { margin-bottom: 1rem; }
+.publications h2 span { font-size: 1.5rem; }
+.publications h2.year { color: #e8e8e8; border-top: 1px solid #e8e8e8; margin-top: 2rem; margin-bottom: 0rem; text-align: right; }
+
+.publications ol.bibliography { list-style: none; padding: 0; margin-top: 0; }
+.publications ol.bibliography li { min-height: 80px; margin-bottom: 0.5rem; }
+.publications ol.bibliography li .title { font-weight: bolder; }
+.publications ol.bibliography li .author a { border-bottom: 1px var(--global-theme-color); }
+.publications ol.bibliography li .author a:hover { border-bottom-style: solid; text-decoration: none; }
+.publications ol.bibliography li .author > em { border-bottom: 1px solid; font-style: normal; }
+
+.publications ol.bibliography li .links a.btn {
+  color: #000000;
+  border: 1px solid #000000;
+  padding-left: 0.5rem; padding-right: 0.5rem;
+  padding-top: 0.1rem; padding-bottom: 0.1rem;
+}
+
+@media (prefers-color-scheme: dark) {
+  .publications ol.bibliography li .links a.btn {
+    color: #FFFFFF;
+    border: 1px solid #FFFFFF;
+  }
+}
+
+.publications ol.bibliography li .links a.btn:hover {
+  color: var(--global-theme-color);
+  border-color: var(--global-theme-color);
+}

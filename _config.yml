@@ -1,27 +1,5 @@
 title: "Inès Benito"
-logo: "pictures/profile.jpg"
-description: |
-  PhD Student<br>
-  École Polytechnique<br>
-  <br>
-  Supervised by <a href="https://doerr.cs.uni-saarland.de/">Benjamin Doerr</a>
-  and <a href="https://johanneslutzeyer.com/">Johannes Lutzeyer</a><br>
-  <br>
-  <a href="mailto:ines.benito@polytechnique.edu">ines.benito@polytechnique.edu</a><br>
-  <br>
-  <a href="https://scholar.google.com/citations?user=6HOhTFYAAAAJ&hl=en">Google Scholar</a> &middot;
-  <a href="https://www.linkedin.com/in/ines-benito/">LinkedIn</a> &middot;
-  <a href="https://github.com/Hypatia-II">GitHub</a>
-
-remote_theme: pages-themes/minimal@v0.2.0
+description: "PhD Candidate in Artificial Intelligence, École Polytechnique"
 
 plugins:
-  - jekyll-remote-theme
-  - jekyll-scholar
   - jekyll-seo-tag
-
-scholar:
-  bibliography: papers.bib
-  sort_by: year
-  order: descending
-  style: apa
