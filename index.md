@@ -39,16 +39,16 @@ Previously, I obtained a Master of Science in Data Science for Business from [É
 
 ## Teaching
 
-**Teaching Assistant** — [École Polytechnique](https://www.polytechnique.edu/){:target="_blank"}
+**Teaching Assistant**, [École Polytechnique](https://www.polytechnique.edu/){:target="_blank"}
 
-*Computer Programming* (Bachelor students) — ongoing
+*Computer Programming* (Bachelor students), ongoing
 
 Topics: recursion, iteration & generators, randomness & sampling, dynamic programming, backtracking, trees, graphs & traversals, binary representation & encoding, specification & proof, combinatorial generation, types, concurrency & networking, introduction to functional programming.
 
-*Algorithms for Data Analysis in Python* (Engineering students) — ongoing
+*Algorithms for Data Analysis in Python* (Engineering students), ongoing
 
 Topics: introduction to data science, k-NN search, k-means clustering, hierarchical clustering, density estimation, supervised learning, linear models for regression and classification, ensemble methods & random forests, introduction to neural networks, feature extraction & dimensionality reduction. Tools: Python, scikit-learn.
 
-**Course Instructor** — *AI in the Cloud* — [Université Paris Dauphine-PSL](https://www.dauphine.psl.eu/){:target="_blank"} *(2 years)*
+**Course Instructor**, *AI in the Cloud*, [Université Paris Dauphine-PSL](https://www.dauphine.psl.eu/){:target="_blank"} *(2 years)*
 
 Designed and delivered a 24-hour course (spread across a full semester, not a single session) for 30 Master's students in the *Artificial Intelligence, Systems and Data* programme. Topics included AI integration in cloud environments, MLOps, advanced generative AI applications, LoRA/DoRA for LLM fine-tuning, LLM architectures (Transformer, Linformer, Mamba, MoE), pruning, quantization, and adversarial attacks on LLMs.
