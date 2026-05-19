@@ -8,7 +8,7 @@ I am a PhD candidate in Artificial Intelligence at [École Polytechnique](https:
 
 Previously, I obtained a Master of Science in Data Science for Business from [École Polytechnique – HEC Paris](https://www.hec.edu/){:target="_blank"} (GPA 3.94/4) and a Master of Science in Engineering specialising in Observation Systems and Artificial Intelligence from [ENSTA](https://www.ensta-paris.fr/){:target="_blank"} (GPA 4/4). Prior to my PhD, I worked as a Solutions Architect at Amazon Web Services (AWS), where I led AI/ML projects for public sector customers.
 
-My CV can be accessed [here](assets/files/cv.pdf){:target="_blank"}.
+<!-- My CV can be accessed [here](assets/files/cv.pdf){:target="_blank"}. -->
 
 ## News
 
