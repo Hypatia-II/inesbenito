@@ -12,8 +12,9 @@ My CV can be accessed [here](assets/files/cv.pdf){:target="_blank"}.
 
 ## News
 
+- **[Nov. 2025]** Started my PhD at École Polytechnique under the supervision of [Benjamin Doerr](https://www.lix.polytechnique.fr/Labo/Benjamin.Doerr/){:target="_blank"} and [Johannes Lutzeyer](https://johanneslutzeyer.com/){:target="_blank"}.
 - **[Nov. 2024]** Paper on forecasting algorithms for intelligent resource scaling accepted and presented at ACM SoCC 2024.
-- **[Apr. 2023]** Joined Amazon Web Services as Solutions Architect for French Public Sector, conducting research on time series forecasting.
+- **[Apr. 2023]** Joined Amazon Web Services as Solutions Architect for French Public Sector.
 
 ## Publications
 
@@ -44,7 +45,7 @@ My CV can be accessed [here](assets/files/cv.pdf){:target="_blank"}.
 
 Topics: recursion, iteration & generators, randomness & sampling, dynamic programming, backtracking, trees, graphs & traversals, binary representation & encoding, specification & proof, combinatorial generation, types, concurrency & networking, introduction to functional programming.
 
-*Algorithmes pour l'analyse de données en Python* (Engineering students) — ongoing
+*Algorithms for Data Analysis in Python* (Engineering students) — ongoing
 
 Topics: introduction to data science, k-NN search, k-means clustering, hierarchical clustering, density estimation, supervised learning, linear models for regression and classification, ensemble methods & random forests, introduction to neural networks, feature extraction & dimensionality reduction. Tools: Python, scikit-learn.
 
